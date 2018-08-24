@@ -10,7 +10,7 @@ $(document).ready(function() {
  */
 function initializePage() {
 	// add any functionality and listeners you want here
-	console.log("Javascript is connected!");
+	console.log("litty tittes!");
 }
 
 $("img-thumbnail").click(projectClick);
