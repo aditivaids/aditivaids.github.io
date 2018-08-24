@@ -10,10 +10,10 @@ $(document).ready(function() {
  */
 function initializePage() {
 	// add any functionality and listeners you want here
-	console.log("litty tittes!");
+	console.log(":))))");
 }
 
-$("img-thumbnail").click(projectClick);
+$(".img-thumbnail").click(projectClick);
 
 function projectClick(e) {
 	e.preventDefault();
