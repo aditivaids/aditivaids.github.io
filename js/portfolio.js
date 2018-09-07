@@ -14,8 +14,9 @@ function initializePage() {
 }
 
 $(".img-thumbnail").click(projectClick);
+$(".navbar-brand").click(projectClick);
 
 function projectClick(e) {
 	e.preventDefault();
-	$(this).css("background-color", "#7fff00")
+	$(this).css("background-color", "#E8B4A2")
 }
